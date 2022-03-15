@@ -1,0 +1,78 @@
+body{
+    font-family: 'Zen Kurenaido', sans-serif;
+    max-width: 100%;
+    background-color: rgb(14, 12, 12);
+}
+.logan{
+    width:80%;
+    height: 400px;
+    background-attachment: fixed;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+    
+.bar_links{
+    background-color: rgb(26, 23, 23);
+    font-weight: 700;
+    padding: 30px;
+    color: rgb(56, 51, 51);
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+}
+.about_logan{
+    background-color:rgba(37, 36, 36, 0.979);
+    max-width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    color: bisque;
+    padding: 15px  10px 10px 10px;
+}
+
+a{
+   color: rgb(82, 78, 78);
+   text-decoration: none;
+   text-align: center;
+   max-width: 100%;
+}/*arrumar links bar não estão responsivos*/
+h3{
+    color: rgb(82, 80, 80);
+}
+.footer{
+    color: rgb(134, 126, 126);
+    max-width: 80%;
+    margin-left: 250px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-weight: 700;
+}
+h4{
+    font-size: 25px;
+}
+.contact{
+    background-color:rgba(37, 36, 36, 0.979);
+    max-width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    color: bisque;
+    padding: 15px  10px 10px 10px;
+}
+.h3{
+    color: bisque;
+}
+.h30{
+    color: bisque;
+}
+h1{
+    color: rgb(117, 116, 114);
+}
+.imags{
+    max-width: 100%;
+}
